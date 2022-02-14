@@ -1,0 +1,19 @@
+{
+    "Taula Cadira Equip (taula-cadira-equip)": {
+        "resourceId": "artifact:1934780738213773923"
+    },
+    "Taula Cadira Equip Illa 7 (taula-cadira-equip_ILLA-7)": {
+        "resourceId": "artifact:1934780705447871049",
+        "scale": {
+            "x": 7.5,
+            "y": 7.5,
+            "z": 7.5
+        },
+        "position": {
+            "x": 0,
+            "y": -0.48,
+            "z": 0
+        },
+        "attachPoint": "spine-middle"
+    }
+}
